@@ -1,11 +1,14 @@
 .container{
+    border-style: outset;
+    border-width: 5px;
+    border-color: grey;
     text-align: center;
-    background-color: black;
+    background-color: rgb(10,13,12);
     color: gray;
 }
 
 #body {
-    background-color: rgb(155, 121, 29);
+    background: url("../images/pGame/s-l300.jpg");
 }
 
 #eye {
