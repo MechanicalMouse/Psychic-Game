@@ -1,6 +1,6 @@
 # Psychic-Game
 
-Enter letters to guess which one the computer chose.
+Can you guess the letter? Enter letters to guess which one the computer chose!
 
 Deployed Link: https://mechanicalmouse.github.io/Psychic-Game/
 
